@@ -1,4 +1,3 @@
-# CycleBlob
-A WebGL LightCycle game
+# DrawElementWithWebGL
 
-this is the source code for http://cycleblob.com
+Basic step to draws elements using WebGL

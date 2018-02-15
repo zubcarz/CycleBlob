@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1325cf6c-f0c3-4c89-9813-964a4b9ffca1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/TBD.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/glUtils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/jquery-1.4.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/old_snips.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/sylvester.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/testdbl.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_old/worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/build_release.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/compress_models.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/exp_replace.sed" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test_num.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build_release.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/contact.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cycleblob.sln" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cycleblob.vcxproj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cycleblob.vcxproj.filters" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/cycleblob.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/firefox_store_manifest.webapp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/icon_Desktop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/icon_Forward.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/icon_Playb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/icon_Refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/instructions3.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/instructions_header.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_cube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_dbl_sofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_diamond.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_inside_cube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_mobius.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_sofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_softsofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_tetra.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_torus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/m_triCorner.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/rep_image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/rep_image_128.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/speaker_off.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/speaker_on.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/tex2d.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/title_text9.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/jquery-1.4.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/bikePlayer2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/cube5quads.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/dbl_sofa_soft_4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/distortDiamond5q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/lifeWheel.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/mobius_10r_3q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/plus4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/rot_dounut2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/sofa4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/sofa4q_soft.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/tetra1_4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/torus_100_50s.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/triCorner4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/models/triCornerOut4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/shaders.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/coin_up3.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/coin_up3.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/crash2.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/crash2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/powerup2.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/powerup2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/turn5.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sound/turn5.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/firefox_store_manifest.webapp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/chromelogo128.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/download_chrome.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/firefox_icon128.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Desktop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Desktop_Alt.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Forward.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Playb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/icon_Refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/inkscape_pasted_image_20110301_221751.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/inkscape_pasted_image_20110301_221904.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions2.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions2_t1.svgz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions2_t2.svgz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions2_t3.svgz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions2_t4.svgz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions3.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions3_p.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/instructions_header.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_cube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_dbl_sofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_diamond.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_inside_cube.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_mobius.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_sofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_softsofa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_tetra.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_torus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m_triCorner.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/models_icons.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/rep_image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/rep_image_128.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/speaker_off.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/speaker_on.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/tex2d.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/tex2d_flipvert.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text2.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text3.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text4.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text5.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text6.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text7.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text8.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/title_text9.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/instructions.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/arrow.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/cross.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/demo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/hs.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/hv.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jscolor/jscolor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/bikePlayer2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/cube0.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/cube1.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/cube2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/cube3.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/cube5quads.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/dbl_sofa_soft_4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/distortDiamond5q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/lifeWheel.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/mobius_10r_3q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/Teapot.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/bikePlayer1.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/cube4lines.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/cube4tri.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/cube5.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/cube5lines.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/cube5tri.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/dbl_sofa_soft_4q.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/distortDiamond.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/mobius.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/mobius_10_3q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/mobius_10_4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/mobius_quad.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/oneQuad.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/player1.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/plus.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/rot_dounut.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/rot_dounut.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/rot_dounut2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sandClock.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sandClock4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sandClock5.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sandClock5.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/simple_cube.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sofa.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/sofa_sub.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/squashSofa5q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/squrePita5q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/subTetra.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/tetra1_5q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/torus_100_50.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/other/triCorner.kw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/plus4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/rot_dounut2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/sofa4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/sofa4q_soft.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/tetra1_4q.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/torus_100_50s.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/triCorner4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/models/triCornerOut4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/cube5quads.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/dbl_sofa_soft_4q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/distortDiamond5q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/mobius_10r_3q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/plus4q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/rot_dounut2.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/sofa4q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/sofa4q_soft.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/tetra1_4q.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/torus_100_50s.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/triCorner4.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/modelsz/triCornerOut4.jsonz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/myPage.komodoproject" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/release.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/shaders.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/coin_up3.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/coin_up3.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/crash2.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/crash2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/beep_c.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/dust1.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/dust2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/horn.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/horn_cut.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/laser1.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/laser2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/laser4.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/lazer.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/powerup2mono.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/turn1.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/not/turn2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/orig/A_laser5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/orig/A_laser6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/orig/A_laser7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/orig/crash.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/powerup2.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/powerup2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/coin_up.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/coin_up2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/crash.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/powerup1.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/turn1.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/turn2.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/turn3.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/prev/turn4.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/turn5.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sound/turn5.ogg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/aiControl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/background.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/browserDetect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/build_number.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/colorwheel/colorwheel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/colorwheel/raphael-1.3.1-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/colorwheel/raphael-1.5.2-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/debug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/gameControl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/geomProcess.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/glMatrix-0.9.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/jquery-1.4.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/jquery.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/loadManager.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pUtils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pack_footer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/pack_header.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/screens2d.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/sfx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/shaders.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/sprintf-0.6.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/transform.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/jquery.ui.core.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/jquery.ui.mouse.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/jquery.ui.slider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/jquery.ui.widget.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-icons_454545_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-icons_888888_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.accordion.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.all.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.autocomplete.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.button.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.core.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.datepicker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.progressbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.resizable.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.selectable.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.slider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.tabs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/ui/themes/base/jquery.ui.theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/userInput.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/viewPoint.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/webgl-utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/widgets2d.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inkscape_pasted_image_20110301_221751.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/img/inkscape_pasted_image_20110301_221751.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="291" />
+    <option name="y" value="87" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CycleBlob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CycleBlob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CycleBlob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CycleBlob" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CycleBlob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CycleBlob" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CycleServer" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="server.js" working-dir="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1325cf6c-f0c3-4c89-9813-964a4b9ffca1" name="Default" comment="" />
+      <created>1518713733036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518713733036</updated>
+      <workItem from="1518713734384" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1953000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1860" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19045006" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/release.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shaders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/distortDiamond5q.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/bikePlayer2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11706">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscolor/cross.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscolor/arrow.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscolor/hs.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscolor/hv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscolor/jscolor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/chromelogo128.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/download_chrome.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon_Desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon_Desktop_Alt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon_Play.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon_Playb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/inkscape_pasted_image_20110301_221904.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/instructions.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/inkscape_pasted_image_20110301_221751.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/instructions_header.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/m_cube.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/m_tetra.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/m_torus.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tex2d_flipvert.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/m_triCorner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/title_text5.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tex2d.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/m_sofa.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/chromelogo128.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/inkscape_pasted_image_20110301_221904.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/inkscape_pasted_image_20110301_221751.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
